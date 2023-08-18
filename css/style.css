@@ -236,7 +236,7 @@ ul, ol {
 Banner Area
 ======================*/
 .section-padding {
-  padding: 100px 0px;
+  padding: 20px 0px;
 }
 
 .page-header {
@@ -516,7 +516,7 @@ Header TopBar
 About Section
 ======================*/
 .center-about .section-heading h2 {
-  margin: 10px 0px 20px;
+  margin: 10px 0px 10px;
 }
 
 .center-about .section-heading a {
@@ -619,7 +619,7 @@ Features
 Chapter Section
 ======================*/
 .chapter-section {
-  padding-bottom: 60px;
+  padding-bottom: 10px;
 }
 
 .chapter-item {
